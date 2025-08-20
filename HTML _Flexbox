@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Digital Agency</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="header">
+    <div class="logo">DIGITAL AGENCY</div>
+    <nav class="nav">
+      <a href="#">Home</a>
+      <a href="#">Sobre Nosotros</a>
+      <a href="#">Testimonios</a>
+      <a href="#">Contacto</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="hero-text">
+        <h1>Construyendo productos digitales, marcas y experiencias</h1>
+        <p>Digital Agency es una de las marcas del momento ayudando a los clientes con sus productos digitales.</p>
+        <button class="cta-btn">Contactanos</button>
+      </div>
+      <div class="hero-image">
+        <!-- Placeholder illustration -->
+        <img src="https://img.freepik.com/foto-gratis/personas-que-participan-evento-empresarial_23-2149346657.jpg" alt="Team illustration">
+      </div>
+    </section>
+
+    <section class="companies">
+      <p>Más de 4000 clientes ya han confiado en nosotros</p>
+      <div class="company-logos">
+        <img src="https://www.liderlogo.es/wp-content/uploads/2022/12/pasted-image-0-4-1024x576.png" alt="Spotify">
+        <img src="https://d34u8crftukxnk.cloudfront.net/slackpress/prod/sites/6/slack-logo-slide.png" alt="Slack">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Dropbox_logo_2017.svg/2560px-Dropbox_logo_2017.svg.png" alt="Dropbox">
+        <img src="https://www.colmeza.com/images/multimedia/programas/logo-Zoom.png" alt="Zoom">
+      </div>
+    </section>
+
+    <section class="testimonials">
+      <h2>Referencias de nuestros clientes</h2>
+      <div class="testimonial-cards">
+        <div class="testimonial-card">
+          <img src="https://static.wikia.nocookie.net/villano/images/5/5d/DarthVader.webp/revision/latest?cb=20200725204020&path-prefix=es" alt="Avatar">
+          <h3>Jorge Grande</h3>
+          <p>Gran atención al público, desde el primer momento me han ayudado a solucionar mi problema</p>
+        </div>
+        <div class="testimonial-card">
+          <img src="https://i.scdn.co/image/ab6761610000e5eba3a7cba23d68a4e73c3b8155" alt="Avatar">
+          <h3>David García</h3>
+          <p>Louis el director ha sido capaz de el solo montar lo que es a dia de hoy esta empresa, con amabilidad y esfuerzo</p>
+        </div>
+        <div class="testimonial-card">
+          <img src="https://img.freepik.com/fotos-premium/hombre-negocios-empresario-serio-ventana-retrato-confiado-profesional-oficina-persona-masculina-empleado-orgullo-carrera-empresa-puesta-marcha-profesional-experto-lugar-trabajo_590464-285413.jpg" alt="Avatar">
+          <h3>Lucas Perez</h3>
+          <p>Cuando pregunte el primer dia acerca de trabajar aqui no me rechazaron, todo lo contrario consiguieron que me sintiera cómodo. </p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-container">
+      <div class="footer-column">
+        <h4>Recursos</h4>
+        <ul>
+          <li>Guias</li>
+          <li>Blog</li>
+          <li>Historias de los clientes</li>
+          <li>Catálogo</li>
+        </ul>
+      </div>
+      <div class="footer-column">
+        <h4>Compañia</h4>
+        <ul>
+          <li>Sobre nosotros</li>
+          <li>Carreras</li>
+          <li>Compañeros</li>
+          <li>Contactanos</li>
+        </ul>
+      </div>
+      <div class="footer-column">
+        <h4>Social Media</h4>
+        <ul>
+          <li>LinkedIn</li>
+          <li>Facebook</li>
+          <li>Instagram</li>
+          <li>Twitter</li>
+        </ul>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>
